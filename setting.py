@@ -6,8 +6,8 @@ import os
 
 class Config:
     # 微信ID
-    APP_ID = 'wxe5bee3f747ff043f'
-    APP_SECRET = '4ee1b74d751f66b6c2b10e324e07c8a0'
+    APP_ID = ''
+    APP_SECRET = ''
     # APP_API_URL 'GET https://api.weixin.qq.com/sns/jscode2session'
     APP_API_URL = 'https://api.weixin.qq.com/sns/jscode2session?appid=${0}&secret=${1}&js_code=${2}&grant_type=authorization_code'
 
