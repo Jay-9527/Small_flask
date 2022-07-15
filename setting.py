@@ -1,13 +1,12 @@
 """
 配置文件
 """
-import os
 
 
 class Config:
     # 微信ID
-    APP_ID = ''
-    APP_SECRET = ''
+    APP_ID = 'adfadfuasdfaojsdfoa'
+    APP_SECRET = 'ubfoxhlajniuausjHKJHGUYG'
     # APP_API_URL 'GET https://api.weixin.qq.com/sns/jscode2session'
     APP_API_URL = 'https://api.weixin.qq.com/sns/jscode2session?appid=${0}&secret=${1}&js_code=${2}&grant_type=authorization_code'
 

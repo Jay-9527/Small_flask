@@ -1,8 +1,10 @@
 import os
 
-from flask_script import Manager, Shell
 from flask_migrate import Migrate
-from __init__ import create_app, db
+from flask_script import Manager, Shell
+
+from app import create_app
+from model.exts.dbDAO import db
 
 app = create_app(os.environ.get('flask_config') or 'defaults')
 manager = Manager(app)
