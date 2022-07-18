@@ -35,16 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/AiNiSuBing/PycharmProjects/flaskProject4&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/AiNiSuBing/PycharmProjects/flaskProject4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.flaskProject4">
     <configuration name="flaskProject4" type="PythonConfigurationType" factoryName="Python">
       <module name="flaskProject4" />
@@ -122,6 +126,7 @@
       <workItem from="1657706011510" duration="16020000" />
       <workItem from="1657878599049" duration="3010000" />
       <workItem from="1658044752474" duration="307000" />
+      <workItem from="1658133792115" duration="408000" />
     </task>
     <task id="LOCAL-00001" summary="flask_commit_one">
       <created>1657710935440</created>
@@ -270,7 +275,49 @@
       <option name="project" value="LOCAL" />
       <updated>1658044796208</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="flask_commit_two">
+      <created>1658133883501</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658133883501</updated>
+    </task>
+    <task id="LOCAL-00023" summary="flask_commit_two">
+      <created>1658133907140</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658133907140</updated>
+    </task>
+    <task id="LOCAL-00024" summary="flask_commit_two">
+      <created>1658133929253</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1658133929253</updated>
+    </task>
+    <task id="LOCAL-00025" summary="flask_commit_two">
+      <created>1658133969946</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1658133969946</updated>
+    </task>
+    <task id="LOCAL-00026" summary="flask_commit_two">
+      <created>1658134100707</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1658134100707</updated>
+    </task>
+    <task id="LOCAL-00027" summary="flask_commit_two">
+      <created>1658134152927</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1658134152927</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
