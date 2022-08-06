@@ -1,9 +1,13 @@
 """
 配置文件
 """
+import base64
+import os
 
 
 class Config:
+    # 项目安全密钥
+    SECRET_KEY = base64.b64encode(os.urandom(24)).decode()
     # 微信ID
     APP_ID = ''
     APP_SECRET = ''
