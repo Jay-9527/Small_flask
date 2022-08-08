@@ -1,0 +1,490 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
++++ /dev/null	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
+@@ -1,354 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ChangeListManager">
+-    <list default="true" id="6203d3b6-0729-44fc-86c3-d30ad22c2ee2" name="变更" comment="flask_commit_two" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Flask Main" />
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="PREVIOUS_COMMIT_AUTHORS">
+-      <list>
+-        <option value="Jay-9527 &lt;1819192616@qq.com&gt;" />
+-      </list>
+-    </option>
+-    <option name="PUSH_AUTO_UPDATE" value="true" />
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="MarkdownSettingsMigration">
+-    <option name="stateVersion" value="1" />
+-  </component>
+-  <component name="ProjectId" id="2BsXsv5pw5txZGPpMlfSVRLwPCi" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "C:/Users/AiNiSuBing/PycharmProjects/flaskProject4",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+-  }
+-}]]></component>
+-  <component name="RunManager" selected="Python.flaskProject4">
+-    <configuration name="flaskProject4" type="PythonConfigurationType" factoryName="Python">
+-      <module name="flaskProject4" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="Flask (run.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+-      <option name="flaskDebug" value="true" />
+-      <module name="flaskProject4" />
+-      <option name="target" value="$PROJECT_DIR$/run.py" />
+-      <option name="targetType" value="PATH" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="C:\Users\AiNiSuBing\AppData\Local\Programs\Python\Python310\python.exe" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="launchJavascriptDebuger" value="false" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="flaskProject4" type="Python.FlaskServer">
+-      <module name="flaskProject4" />
+-      <option name="target" value="$PROJECT_DIR$/app.py" />
+-      <option name="targetType" value="PATH" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="C:\Users\AiNiSuBing\AppData\Local\Programs\Python\Python310\python.exe" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="launchJavascriptDebuger" value="false" />
+-      <method v="2" />
+-    </configuration>
+-    <list>
+-      <item itemvalue="Flask 服务器.flaskProject4" />
+-      <item itemvalue="Flask 服务器.Flask (run.py)" />
+-      <item itemvalue="Python.flaskProject4" />
+-    </list>
+-    <recent_temporary>
+-      <list>
+-        <item itemvalue="Flask 服务器.Flask (run.py)" />
+-      </list>
+-    </recent_temporary>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="默认任务">
+-      <changelist id="6203d3b6-0729-44fc-86c3-d30ad22c2ee2" name="变更" comment="" />
+-      <created>1657695976874</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1657695976874</updated>
+-      <workItem from="1657696028046" duration="5075000" />
+-      <workItem from="1657706011510" duration="16020000" />
+-      <workItem from="1657878599049" duration="3010000" />
+-      <workItem from="1658044752474" duration="307000" />
+-      <workItem from="1658133792115" duration="408000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="flask_commit_one">
+-      <created>1657710935440</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657710935440</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="flask_commit_one">
+-      <created>1657711994714</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657711994714</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="flask_commit_one">
+-      <created>1657712204998</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657712204998</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="flask_commit_one">
+-      <created>1657715104964</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657715104964</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="flask_commit_one">
+-      <created>1657715764928</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657715764928</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="flask_commit_one">
+-      <created>1657716134574</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657716134574</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="flask_commit_one">
+-      <created>1657716307764</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657716307764</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="flask_commit_one">
+-      <created>1657716395326</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657716395326</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="flask_commit_two">
+-      <created>1657884968854</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657884968854</updated>
+-    </task>
+-    <task id="LOCAL-00010" summary="flask_commit_two">
+-      <created>1657885058861</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657885058861</updated>
+-    </task>
+-    <task id="LOCAL-00011" summary="flask_commit_two">
+-      <created>1657885105545</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657885105545</updated>
+-    </task>
+-    <task id="LOCAL-00012" summary="flask_commit_two">
+-      <created>1657885148100</created>
+-      <option name="number" value="00012" />
+-      <option name="presentableId" value="LOCAL-00012" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657885148100</updated>
+-    </task>
+-    <task id="LOCAL-00013" summary="flask_commit_two">
+-      <created>1657885465001</created>
+-      <option name="number" value="00013" />
+-      <option name="presentableId" value="LOCAL-00013" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657885465001</updated>
+-    </task>
+-    <task id="LOCAL-00014" summary="flask_commit_two">
+-      <created>1657885512869</created>
+-      <option name="number" value="00014" />
+-      <option name="presentableId" value="LOCAL-00014" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657885512869</updated>
+-    </task>
+-    <task id="LOCAL-00015" summary="flask_commit_two">
+-      <created>1657885556644</created>
+-      <option name="number" value="00015" />
+-      <option name="presentableId" value="LOCAL-00015" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657885556644</updated>
+-    </task>
+-    <task id="LOCAL-00016" summary="flask_commit_two">
+-      <created>1657885585407</created>
+-      <option name="number" value="00016" />
+-      <option name="presentableId" value="LOCAL-00016" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657885585407</updated>
+-    </task>
+-    <task id="LOCAL-00017" summary="flask_commit_two">
+-      <created>1657886701032</created>
+-      <option name="number" value="00017" />
+-      <option name="presentableId" value="LOCAL-00017" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657886701032</updated>
+-    </task>
+-    <task id="LOCAL-00018" summary="flask_commit_two">
+-      <created>1657886727676</created>
+-      <option name="number" value="00018" />
+-      <option name="presentableId" value="LOCAL-00018" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657886727676</updated>
+-    </task>
+-    <task id="LOCAL-00019" summary="flask_commit_two">
+-      <created>1657886760191</created>
+-      <option name="number" value="00019" />
+-      <option name="presentableId" value="LOCAL-00019" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1657886760191</updated>
+-    </task>
+-    <task id="LOCAL-00020" summary="flask_commit_two">
+-      <created>1658044776233</created>
+-      <option name="number" value="00020" />
+-      <option name="presentableId" value="LOCAL-00020" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658044776233</updated>
+-    </task>
+-    <task id="LOCAL-00021" summary="flask_commit_two">
+-      <created>1658044796208</created>
+-      <option name="number" value="00021" />
+-      <option name="presentableId" value="LOCAL-00021" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658044796208</updated>
+-    </task>
+-    <task id="LOCAL-00022" summary="flask_commit_two">
+-      <created>1658133883501</created>
+-      <option name="number" value="00022" />
+-      <option name="presentableId" value="LOCAL-00022" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658133883501</updated>
+-    </task>
+-    <task id="LOCAL-00023" summary="flask_commit_two">
+-      <created>1658133907140</created>
+-      <option name="number" value="00023" />
+-      <option name="presentableId" value="LOCAL-00023" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658133907140</updated>
+-    </task>
+-    <task id="LOCAL-00024" summary="flask_commit_two">
+-      <created>1658133929253</created>
+-      <option name="number" value="00024" />
+-      <option name="presentableId" value="LOCAL-00024" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658133929253</updated>
+-    </task>
+-    <task id="LOCAL-00025" summary="flask_commit_two">
+-      <created>1658133969946</created>
+-      <option name="number" value="00025" />
+-      <option name="presentableId" value="LOCAL-00025" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658133969946</updated>
+-    </task>
+-    <task id="LOCAL-00026" summary="flask_commit_two">
+-      <created>1658134100707</created>
+-      <option name="number" value="00026" />
+-      <option name="presentableId" value="LOCAL-00026" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658134100707</updated>
+-    </task>
+-    <task id="LOCAL-00027" summary="flask_commit_two">
+-      <created>1658134152927</created>
+-      <option name="number" value="00027" />
+-      <option name="presentableId" value="LOCAL-00027" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1658134152927</updated>
+-    </task>
+-    <option name="localTasksCounter" value="28" />
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+-  <component name="UpdateCopyrightCheckinHandler">
+-    <option name="UPDATE_COPYRIGHT" value="true" />
+-  </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+-    <MESSAGE value="flask_commit_one" />
+-    <MESSAGE value="flask_commit_two" />
+-    <option name="LAST_COMMIT_MESSAGE" value="flask_commit_two" />
+-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+-  </component>
+-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/flaskProject4$Flask__run_py_.coverage" NAME="Flask (run.py) 覆盖结果" MODIFIED="1657708359895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
++++ /dev/null	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (flaskProject3)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
++++ /dev/null	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
++++ /dev/null	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/flaskProject4.iml" filepath="$PROJECT_DIR$/.idea/flaskProject4.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/flaskProject4.iml
+===================================================================
+diff --git a/.idea/flaskProject4.iml b/.idea/flaskProject4.iml
+deleted file mode 100644
+--- a/.idea/flaskProject4.iml	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
++++ /dev/null	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
+@@ -1,25 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="Flask">
+-    <option name="enabled" value="true" />
+-  </component>
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Python 3.10 (flaskProject3)" jdkType="Python SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-  <component name="PyDocumentationSettings">
+-    <option name="format" value="PLAIN" />
+-    <option name="myDocStringFormat" value="Plain" />
+-  </component>
+-  <component name="TemplatesService">
+-    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+-    <option name="TEMPLATE_FOLDERS">
+-      <list>
+-        <option value="$MODULE_DIR$/templates" />
+-      </list>
+-    </option>
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+deleted file mode 100644
+--- a/.idea/inspectionProfiles/Project_Default.xml	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
++++ /dev/null	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
+@@ -1,28 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+-      <Languages>
+-        <language minSize="47" name="Python" />
+-      </Languages>
+-    </inspection_tool>
+-    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+-    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+-      <option name="ignoredErrors">
+-        <list>
+-          <option value="E402" />
+-          <option value="E501" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+-      <option name="ignoredErrors">
+-        <list>
+-          <option value="N801" />
+-          <option value="N802" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/.idea/inspectionProfiles/profiles_settings.xml	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
++++ /dev/null	(revision b4005c28292cc25b8f2adea947331ed8c04e722b)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file

@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65ce3dc2-77ca-4e2c-9a1f-78cb6771837a" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Small_flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/exts/uitl/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/exts/dbDAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/exts/dbDAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/service/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/service/users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
-    </list>
+    <list default="true" id="65ce3dc2-77ca-4e2c-9a1f-78cb6771837a" name="变更" comment="flask_three" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,8 +115,23 @@
       <workItem from="1659457276065" duration="189000" />
       <workItem from="1659463823371" duration="8055000" />
       <workItem from="1659743517088" duration="533000" />
-      <workItem from="1659745298961" duration="448000" />
+      <workItem from="1659745298961" duration="923000" />
     </task>
+    <task id="LOCAL-00001" summary="flask_three">
+      <created>1659749274693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659749274693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="flask_three">
+      <created>1659749383171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659749383171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="flask_three" />
+    <option name="LAST_COMMIT_MESSAGE" value="flask_three" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Small_flask$Flask__run_py_.coverage" NAME="Flask (run.py) 覆盖结果" MODIFIED="1659267982704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
